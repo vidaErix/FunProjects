@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 import openai
 
-OPEN_API_KEY = "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"
+OPEN_API_KEY = "sbasdadswdwsd"
 
 app = FastAPI()
 
